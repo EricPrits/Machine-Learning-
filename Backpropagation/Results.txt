@@ -1,0 +1,11 @@
+	I decided to use a network made up of 3 layers: input, hidden and output. The hidden layer
+was comprised of 12 nodes, which each accepted 11 inputs for each of the 11 attributes. The output layer consisted of 3 
+nodes,each node representing one of the 3 outputs (100 = 8, 010 =7 , 001 = 5). My weights were set
+to random values in the 0 to 1 range. The termination criteria was t0 redue the error of the algorithm to 0.05 
+or after 10000 iterations of the training algorithm. For a node output algorithma a sigmoid function was used and 0.95 and 0.05 were used instead of 1 and 0
+as the sigmoid only approaches 1 and 0 at infinity. For data preprocessing 2 steps were done first the quotations were removed from the calss label, 
+next all the data was normalized which ut all atributes on the same scale of 0-1. For splitting the data 75% was used for training and 25% was used for testing.
+
+	I was not able to get my algorithm functioning properly, while the weights were adjusted the error just continued to rise and it ended up predicitng all the test values wrong. 
+I was able to get a good understanding of backpropagation, and my code has a good structure and the proper steps;
+however, my algorithm does have a 0% success rate. I was not able to determine which step in my program accounted for these errors. 

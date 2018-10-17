@@ -1,0 +1,48 @@
+Initial and final weight vectors for first perceptron: 
+Initial: 0.40812964927091755,0.5981470098771823,0.4630709913071006,0.5516885073490316,0.35507828123401863
+Final: -0.11187035072908258,0.8181470098771824,-0.7269290086928993,0.07168850734903166,0.35507828123401863
+
+Initial and final weight vectors for second perceptron: 
+Initial: 0.3943973256768414,0.8296540670210352,0.13816309776093227,0.4587572071694722,0.18662645408428702
+Final: 3.6643973256762683,28.67965406701975,-8.861836902237894,-57.3612427928374,37.58662645408455
+
+Total Classification Error: 11870
+
+Number of iterations for perceptron: 5373
+
+Testing for perceptron: 
+
+Real Value: Iris-setosa	Predicted Value: Iris-setosa
+Real Value: Iris-setosa	Predicted Value: Iris-setosa
+Real Value: Iris-setosa	Predicted Value: Iris-setosa
+Real Value: Iris-setosa	Predicted Value: Iris-setosa
+Real Value: Iris-setosa	Predicted Value: Iris-setosa
+Real Value: Iris-setosa	Predicted Value: Iris-setosa
+Real Value: Iris-setosa	Predicted Value: Iris-setosa
+Real Value: Iris-setosa	Predicted Value: Iris-setosa
+Real Value: Iris-setosa	Predicted Value: Iris-setosa
+Real Value: Iris-setosa	Predicted Value: Iris-setosa
+Real Value: Iris-versicolor	Predicted Value: Iris-versicolor
+Real Value: Iris-versicolor	Predicted Value: Iris-versicolor
+Real Value: Iris-versicolor	Predicted Value: Iris-versicolor
+Real Value: Iris-versicolor	Predicted Value: Iris-versicolor
+Real Value: Iris-versicolor	Predicted Value: Iris-versicolor
+Real Value: Iris-versicolor	Predicted Value: Iris-versicolor
+Real Value: Iris-versicolor	Predicted Value: Iris-versicolor
+Real Value: Iris-versicolor	Predicted Value: Iris-versicolor
+Real Value: Iris-versicolor	Predicted Value: Iris-virginica
+Real Value: Iris-versicolor	Predicted Value: Iris-versicolor
+Real Value: Iris-virginica	Predicted Value: Iris-virginica
+Real Value: Iris-virginica	Predicted Value: Iris-virginica
+Real Value: Iris-virginica	Predicted Value: Iris-versicolor
+Real Value: Iris-virginica	Predicted Value: Iris-virginica
+Real Value: Iris-virginica	Predicted Value: Iris-versicolor
+Real Value: Iris-virginica	Predicted Value: Iris-virginica
+Real Value: Iris-virginica	Predicted Value: Iris-versicolor
+Real Value: Iris-virginica	Predicted Value: Iris-versicolor
+Real Value: Iris-virginica	Predicted Value: Iris-virginica
+Real Value: Iris-virginica	Predicted Value: Iris-virginica
+
+Precision of classification: 10/10 for Setosa, 9/13 for Versicolor, 6/7 for Virginica
+
+Recall of classification: 10/30 for Setosa, 9/30 for Versicolor, 6/30 for Viginica
